@@ -1,10 +1,6 @@
 # AStore - .NET MAUI Store App
 
 ![Build Android](https://github.com/akv3sic/MAUI-store-app/actions/workflows/dotnet.yml/badge.svg?event=push&branch=master)
-![Last Commit](https://img.shields.io/github/last-commit/akv3sic/MAUI-store-app)
-![License](https://img.shields.io/github/license/akv3sic/MAUI-store-app)
-![GitHub Repo stars](https://img.shields.io/github/stars/akv3sic/MAUI-store-app?style=social)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 <img src="https://github.com/akv3sic/MAUI-store-app/assets/57301167/3a1a9e16-a615-49a0-8160-5d2c83345546" height="300" />
 <img src="https://github.com/akv3sic/MAUI-store-app/assets/57301167/31b98a85-8b7b-4468-8706-319896e36712" height="300" />
@@ -13,7 +9,6 @@
 
 ## Project Description
 
-This project is developed as a part of a Master's Thesis at [FSRE](https://fsre.sum.ba). 
 It is a store application built with .NET MAUI leveraging the [Fake Store API](https://fakestoreapi.com/) to simulate
 the functionality and features of a real-world store application.
 
@@ -60,21 +55,3 @@ The following libraries are used in this project and require attribution:
 - [MVVM Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)
 
 Thanks to all the contributors!
-
-## Other Resources Used
-- Empty State Illustrations by TanahAir Studio - [Figma](https://www.figma.com/community/file/931094174831888421)
-- Icons by [SVG Repo](https://www.svgrepo.com/)
-- App UI/UX Design inspired by E-commerce template made by Oleh Chabanov - [Behance](https://www.behance.net/gallery/107120839/Free-Mobile-AppE-commerce-templateFigmaUIStoreShop)
-- This software is greatly influenced by content published by [James Montemagno](https://github.com/jamesmontemagno) and [Gerard Versluis](https://github.com/jfversluis) at their YouTube channels.
-- Videos by [Javier Suárez](https://github.com/jsuarezruiz) helped me to understand how to build UI using XAML.
-
-Thanks you for all the great resources!
-
-## Copyright and License
-
-Copyright © 2023 A. Kvesić, J. Matković, [Faculty of Mechanical Engineering, Computing and Electrical Engineering, University of Mostar](https://fsre.sum.ba) and contributors. All rights reserved.
-
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Thank You
-A special thank you goes to my mentor and my fellow work colleagues who suggested me choosing this topic for my Master's Thesis, provided me resources and valuable feedback. I am not going to mention them by name, but they know who they are. Thank you!
