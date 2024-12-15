@@ -12,8 +12,6 @@
 It is a store application built with .NET MAUI leveraging the [Fake Store API](https://fakestoreapi.com/) to simulate
 the functionality and features of a real-world store application.
 
-You can access the full text of the thesis [here](https://drive.google.com/file/d/19TEatq-Dr9WGvYuaFw2ARENorvGu_oyr/view?usp=sharing) (Note: The document is in Croatian).
-
 ### Features
 
 - [x] Product listing
@@ -26,10 +24,6 @@ You can access the full text of the thesis [here](https://drive.google.com/file/
 - [x] Cross selling
 - [x] Product sharing
 - [x] Recently viewed products
-
-### Demo Credentials
-- Username: `johnd`
-- Password: `m38rmF$`
 
 More at [Fake Store API - Users](https://fakestoreapi.com/users).
 
